@@ -11,6 +11,7 @@
 		AC1518EC29F1368300011FD0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC1518EB29F1368300011FD0 /* ContentView.swift */; };
 		AC1518EE29F1368500011FD0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC1518ED29F1368500011FD0 /* Assets.xcassets */; };
 		AC1518F129F1368500011FD0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC1518F029F1368500011FD0 /* Preview Assets.xcassets */; };
+		AC1518F829F160BF00011FD0 /* MyNodel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC1518F729F160BF00011FD0 /* MyNodel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		AC1518EB29F1368300011FD0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AC1518ED29F1368500011FD0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC1518F029F1368500011FD0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AC1518F729F160BF00011FD0 /* MyNodel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyNodel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				AC1518EB29F1368300011FD0 /* ContentView.swift */,
 				AC1518ED29F1368500011FD0 /* Assets.xcassets */,
 				AC1518EF29F1368500011FD0 /* Preview Content */,
+				AC1518F729F160BF00011FD0 /* MyNodel.swift */,
 			);
 			path = ArtemLounge;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AC1518EC29F1368300011FD0 /* ContentView.swift in Sources */,
+				AC1518F829F160BF00011FD0 /* MyNodel.swift in Sources */,
 				AC1518EA29F1368300011FD0 /* ArtemLoungeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
